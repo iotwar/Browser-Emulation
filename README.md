@@ -7,3 +7,6 @@ This is mostly patched now, Any good WAF rules or even bot defense mode should h
 It was bypassing my personal site in recent but it stopped as of last check. You can do whatever with this code
 
 Enjoy!
+
+# Images
+[BypassedLOL](nowsecure.nl.png)
